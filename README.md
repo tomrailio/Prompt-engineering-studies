@@ -8,5 +8,6 @@ Theme 1 automated method for generating prompts:
 
 Theme 2 Pricing policy:
 - How to Organize Pricing? Vertical Delegation and Horizontal Dispersion of Pricing Authority.
+- Philip Kotler, Kevin Lane Keller (2016). A framework for marketing management. Pearson Education Limited 2016. 
 
   
