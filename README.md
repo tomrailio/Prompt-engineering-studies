@@ -27,7 +27,7 @@ Theme 9 prompt engineering techniques:
 
 Theme 10 Components of a prompt template. 
 
-Theme 11 TRAILION prompt template.
+Theme 11 WooHoo prompt template.
 
 
 CATEGORY - BUSINESS REQUIREMENTS.
