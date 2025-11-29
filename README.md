@@ -7,26 +7,30 @@ Theme 1 prompt:
 
 Theme 2 prompting:
 
-Theme 3 prompt chain:
+Theme 3 prompting techniques:
 
 Theme 4 prompt engineering:
 
-Theme 5 prompting techniques:
+Theme 5 prompt template:
 
-Theme 6 prompt engineering techniques:
+Theme 6 Examplar:
 
-Theme 7 multimodal prompting:
+Theme 7 prompt chain:
 
-Theme 8 prompt template:
+Theme 8 multimodal prompting:
 
-Theme 9 Examplar:
+Theme 9 prompt engineering techniques:
+
+Theme 10 Components of a prompt template. 
+
+Theme 11 TRAILION prompt template.
 
 
 CATEGORY - BUSINESS REQUIREMENTS.
-Theme 1 Monetization revenue: 
+Theme 12 Monetization revenue: 
  
 
-Theme 2 Pricing policy:
+Theme 13 Pricing policy:
 - How to Organize Pricing? Vertical Delegation and Horizontal Dispersion of Pricing Authority.
 - Philip Kotler, Kevin Lane Keller (2016). A framework for marketing management. Pearson Education Limited 2016. 
 
