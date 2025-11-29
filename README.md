@@ -17,7 +17,9 @@ Theme 5 prompt template:
 Theme 6 Examplar:
 
 Theme 7 prompt chain:
-- PromptChainer: Chaining Large Language Model Prompts through Visual Programming. 
+- PromptChainer: Chaining Large Language Model Prompts through Visual Programming.
+- AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts.
+
 
 Theme 8 multimodal prompting:
 
