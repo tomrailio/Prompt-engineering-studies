@@ -28,7 +28,9 @@ Theme 9 prompt engineering techniques:
 - Thread of Thought Unraveling Chaotic Contexts.
 - Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting.
 - Large language models are human-level prompt engineers
-- GRIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models. 
+- GRIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models.
+- Automatic Prompt Optimization with “Gradient Descent” and Beam Search.
+- 
 
 
 
