@@ -25,7 +25,10 @@ Theme 8 multimodal prompting:
 
 Theme 9 prompt engineering techniques:
 - Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm.
-- Thread of Thought Unraveling Chaotic Contexts. 
+- Thread of Thought Unraveling Chaotic Contexts.
+- Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting.
+- 
+
 
 
 
