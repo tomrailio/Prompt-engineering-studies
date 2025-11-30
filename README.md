@@ -28,6 +28,8 @@ Theme 9 prompt engineering techniques:
 - Thread of Thought Unraveling Chaotic Contexts.
 - Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting.
 - 
+- GRIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models. 
+
 
 
 
