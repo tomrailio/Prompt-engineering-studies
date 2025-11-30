@@ -24,6 +24,8 @@ Theme 7 prompt chain:
 Theme 8 multimodal prompting:
 
 Theme 9 prompt engineering techniques:
+- Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm. 
+
 
 Theme 10 Components of a prompt template. 
 
